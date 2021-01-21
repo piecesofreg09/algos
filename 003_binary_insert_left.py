@@ -37,11 +37,11 @@ print(bii_insert_left(arr, t))
 t = 12
 print(bii_insert_left(arr, t))
 
-```
+'''
 output:
 0
 0
 4
 8
 12
-```
+'''
